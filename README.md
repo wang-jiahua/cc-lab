@@ -11,8 +11,11 @@ SJTU CS3328 Cloud Computing Technology labs
 
 ## Lab 2: Service Job in Cloud
 
-TBA
+- Install minikube, Docker, and kubtctl
+- Start and observe minikube cluster
+- Deploy WordPress blog system
 
 ## Lab 3: Commercial Platform
 
-TBA
+- Deploy WordPress blog system on CCE
+- Auto scale on CCE
